@@ -1,0 +1,17 @@
+scikit-learn
+fastapi
+matplotlib
+pytest
+pytest-mock
+xlrd
+pandas
+numpy
+openpyxl
+psycopg2
+uvicorn
+sqlalchemy==1.4.46
+requests==2.28.2
+schedule==1.1.0
+streamlit-option-menu
+requests
+streamlit

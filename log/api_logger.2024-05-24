@@ -1,0 +1,385 @@
+[20240524 15:45:47 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:45:51 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:45:51 save_data.py:20 INFO]: Linking DB error
+[20240524 15:45:55 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:45:59 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:45:59 save_data.py:20 INFO]: Linking DB error
+[20240524 15:46:03 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:07 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:07 save_data.py:20 INFO]: Linking DB error
+[20240524 15:46:11 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:15 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:15 save_data.py:20 INFO]: Linking DB error
+[20240524 15:46:19 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:23 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:23 save_data.py:20 INFO]: Linking DB error
+[20240524 15:46:27 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:31 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:31 save_data.py:20 INFO]: Linking DB error
+[20240524 15:46:35 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:40 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:40 save_data.py:20 INFO]: Linking DB error
+[20240524 15:46:44 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:48 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:48 save_data.py:20 INFO]: Linking DB error
+[20240524 15:46:52 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:56 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:46:56 save_data.py:20 INFO]: Linking DB error
+[20240524 15:47:00 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:04 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:04 save_data.py:20 INFO]: Linking DB error
+[20240524 15:47:08 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:12 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:12 save_data.py:20 INFO]: Linking DB error
+[20240524 15:47:16 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:20 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:20 save_data.py:20 INFO]: Linking DB error
+[20240524 15:47:24 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:28 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:28 save_data.py:20 INFO]: Linking DB error
+[20240524 15:47:32 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:36 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:37 save_data.py:20 INFO]: Linking DB error
+[20240524 15:47:41 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:45 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:45 save_data.py:20 INFO]: Linking DB error
+[20240524 15:47:49 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:53 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:47:53 save_data.py:20 INFO]: Linking DB error
+[20240524 15:47:57 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:48:01 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:48:01 save_data.py:20 INFO]: Linking DB error
+[20240524 15:48:05 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:48:09 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 15:48:09 save_data.py:20 INFO]: Linking DB error
+[20240524 16:02:24 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:02:29 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:02:29 save_data.py:20 INFO]: Linking DB error
+[20240524 16:02:33 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:02:37 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:02:37 save_data.py:20 INFO]: Linking DB error
+[20240524 16:02:41 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:02:45 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:02:45 save_data.py:20 INFO]: Linking DB error
+[20240524 16:02:49 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:02:53 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:02:53 save_data.py:20 INFO]: Linking DB error
+[20240524 16:02:57 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:01 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:01 save_data.py:20 INFO]: Linking DB error
+[20240524 16:03:05 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:09 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:09 save_data.py:20 INFO]: Linking DB error
+[20240524 16:03:13 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:17 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:17 save_data.py:20 INFO]: Linking DB error
+[20240524 16:03:22 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:26 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:26 save_data.py:20 INFO]: Linking DB error
+[20240524 16:03:30 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:34 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:03:34 save_data.py:20 INFO]: Linking DB error
+[20240524 16:11:12 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:16 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:16 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:20 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:20 save_data.py:20 INFO]: Linking DB error
+[20240524 16:11:20 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:24 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:24 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:28 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:28 save_data.py:20 INFO]: Linking DB error
+[20240524 16:11:28 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:32 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:32 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:36 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:36 save_data.py:20 INFO]: Linking DB error
+[20240524 16:11:36 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:40 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:41 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:45 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:45 save_data.py:20 INFO]: Linking DB error
+[20240524 16:11:45 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:49 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:49 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:53 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:53 save_data.py:20 INFO]: Linking DB error
+[20240524 16:11:53 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:11:57 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:11:57 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:12:01 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:12:01 save_data.py:20 INFO]: Linking DB error
+[20240524 16:12:01 save_data.py:20 INFO]: Connecting to database postgres on db:5432 with user postgres
+[20240524 16:13:44 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:13:49 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:13:49 save_data.py:20 INFO]: Linking DB error
+[20240524 16:13:53 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:13:57 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:13:57 save_data.py:20 INFO]: Linking DB error
+[20240524 16:14:01 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:14:05 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:14:05 save_data.py:20 INFO]: Linking DB error
+[20240524 16:14:09 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:14:13 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:14:13 save_data.py:20 INFO]: Linking DB error
+[20240524 16:14:17 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:14:21 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:14:21 save_data.py:20 INFO]: Linking DB error
+[20240524 16:14:25 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:14:29 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 16:14:29 save_data.py:20 INFO]: Linking DB error
+[20240524 16:17:42 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 41.
+[20240524 16:17:43 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 16:17:43 save_data.py:20 INFO]: Created the repair_table data
+[20240524 16:17:43 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 41.
+[20240524 16:17:43 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 16:17:43 save_data.py:20 INFO]: Created the machine_table data
+[20240524 16:17:43 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 41.
+[20240524 16:17:43 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 16:17:43 save_data.py:20 INFO]: Created the part_table data
+[20240524 16:17:43 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 41.
+[20240524 16:17:43 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 16:17:43 save_data.py:20 INFO]: Created the part_statistic_table data
+[20240524 16:17:43 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 41.
+[20240524 16:17:43 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 16:17:43 save_data.py:20 INFO]: Created the machine_state_table data
+[20240524 16:17:43 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 41.
+[20240524 16:17:43 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 16:17:43 save_data.py:20 INFO]: Created the create_huan_jia_table data
+[20240524 16:17:43 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 41.
+[20240524 16:17:43 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 16:17:43 save_data.py:20 INFO]: Created the create_part_list data
+[20240524 16:17:43 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 41.
+[20240524 16:17:43 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 16:17:43 save_data.py:20 INFO]: Created the create_device_table data
+[20240524 16:17:43 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 41.
+[20240524 16:17:43 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 16:17:43 save_data.py:20 INFO]: Created the create_machine_list data
+[20240524 17:36:15 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:19 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:19 save_data.py:20 INFO]: Linking DB error
+[20240524 17:36:23 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:27 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:27 save_data.py:20 INFO]: Linking DB error
+[20240524 17:36:31 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:35 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:35 save_data.py:20 INFO]: Linking DB error
+[20240524 17:36:39 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:43 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:43 save_data.py:20 INFO]: Linking DB error
+[20240524 17:36:48 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:52 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:36:52 save_data.py:20 INFO]: Linking DB error
+[20240524 17:36:56 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:37:00 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:37:00 save_data.py:20 INFO]: Linking DB error
+[20240524 17:37:04 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:37:08 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:37:08 save_data.py:20 INFO]: Linking DB error
+[20240524 17:37:12 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:37:16 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:37:16 save_data.py:20 INFO]: Linking DB error
+[20240524 17:37:20 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:37:24 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:37:24 save_data.py:20 INFO]: Linking DB error
+[20240524 17:56:26 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:56:30 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:56:30 save_data.py:20 INFO]: Linking DB error
+[20240524 17:56:34 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:56:38 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:56:38 save_data.py:20 INFO]: Linking DB error
+[20240524 17:56:42 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:56:46 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:56:46 save_data.py:20 INFO]: Linking DB error
+[20240524 17:56:50 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:56:54 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:56:54 save_data.py:20 INFO]: Linking DB error
+[20240524 17:56:58 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:02 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:02 save_data.py:20 INFO]: Linking DB error
+[20240524 17:57:06 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:11 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:11 save_data.py:20 INFO]: Linking DB error
+[20240524 17:57:15 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:19 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:19 save_data.py:20 INFO]: Linking DB error
+[20240524 17:57:23 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:27 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:27 save_data.py:20 INFO]: Linking DB error
+[20240524 17:57:31 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:35 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 17:57:35 save_data.py:20 INFO]: Linking DB error
+[20240524 18:13:25 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:13:29 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:13:29 save_data.py:20 INFO]: Linking DB error
+[20240524 18:13:33 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:13:37 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:13:37 save_data.py:20 INFO]: Linking DB error
+[20240524 18:13:41 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:13:45 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:13:45 save_data.py:20 INFO]: Linking DB error
+[20240524 18:13:49 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:13:53 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:13:53 save_data.py:20 INFO]: Linking DB error
+[20240524 18:13:57 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:02 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:02 save_data.py:20 INFO]: Linking DB error
+[20240524 18:14:06 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:10 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:10 save_data.py:20 INFO]: Linking DB error
+[20240524 18:14:14 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:18 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:18 save_data.py:20 INFO]: Linking DB error
+[20240524 18:14:22 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:26 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:26 save_data.py:20 INFO]: Linking DB error
+[20240524 18:14:30 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:34 save_data.py:20 INFO]: [Error] Linking DB error; /usr/local/lib/python3.10/dist-packages/psycopg2/__init__.py. connect at line 122.
+[20240524 18:14:34 save_data.py:20 INFO]: Linking DB error
+[20240524 18:17:21 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:17:21 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:17:21 save_data.py:20 INFO]: Created the repair_table data
+[20240524 18:17:21 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:17:21 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:17:21 save_data.py:20 INFO]: Created the machine_table data
+[20240524 18:17:21 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:17:21 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:17:21 save_data.py:20 INFO]: Created the part_table data
+[20240524 18:17:21 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:17:21 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:17:21 save_data.py:20 INFO]: Created the part_statistic_table data
+[20240524 18:17:21 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:17:21 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:17:21 save_data.py:20 INFO]: Created the machine_state_table data
+[20240524 18:17:21 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:17:21 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:17:21 save_data.py:20 INFO]: Created the create_huan_jia_table data
+[20240524 18:17:21 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:17:21 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:17:21 save_data.py:20 INFO]: Created the create_part_list data
+[20240524 18:17:21 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:17:21 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:17:21 save_data.py:20 INFO]: Created the create_device_table data
+[20240524 18:17:21 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:17:21 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:17:21 save_data.py:20 INFO]: Created the create_machine_list data
+[20240524 18:21:49 save_data.py:20 INFO]: Imported data completed
+[20240524 18:21:49 save_data.py:20 INFO]: The repair_table already exists.
+[20240524 18:21:49 save_data.py:20 INFO]: Imported data completed
+[20240524 18:21:49 save_data.py:20 INFO]: The machine_table already exists.
+[20240524 18:21:49 save_data.py:20 INFO]: Imported data completed
+[20240524 18:21:49 save_data.py:20 INFO]: The part_table already exists.
+[20240524 18:21:49 save_data.py:20 INFO]: Imported data completed
+[20240524 18:21:49 save_data.py:20 INFO]: The part_statistic_table already exists.
+[20240524 18:21:49 save_data.py:20 INFO]: Imported data completed
+[20240524 18:21:49 save_data.py:20 INFO]: The machine_state_table already exists.
+[20240524 18:21:49 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:21:49 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:21:49 save_data.py:20 INFO]: Input request body error
+[20240524 18:21:49 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:21:49 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:21:49 save_data.py:20 INFO]: Input request body error
+[20240524 18:21:49 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:21:49 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:21:49 save_data.py:20 INFO]: Input request body error
+[20240524 18:21:49 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:21:49 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:21:49 save_data.py:20 INFO]: Input request body error
+[20240524 18:22:56 save_data.py:20 INFO]: Imported data completed
+[20240524 18:22:56 save_data.py:20 INFO]: The repair_table already exists.
+[20240524 18:22:56 save_data.py:20 INFO]: Imported data completed
+[20240524 18:22:56 save_data.py:20 INFO]: The machine_table already exists.
+[20240524 18:22:56 save_data.py:20 INFO]: Imported data completed
+[20240524 18:22:56 save_data.py:20 INFO]: The part_table already exists.
+[20240524 18:22:56 save_data.py:20 INFO]: Imported data completed
+[20240524 18:22:56 save_data.py:20 INFO]: The part_statistic_table already exists.
+[20240524 18:22:56 save_data.py:20 INFO]: Imported data completed
+[20240524 18:22:56 save_data.py:20 INFO]: The machine_state_table already exists.
+[20240524 18:22:56 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:22:56 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:22:56 save_data.py:20 INFO]: Input request body error
+[20240524 18:22:56 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:22:56 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:22:56 save_data.py:20 INFO]: Input request body error
+[20240524 18:22:56 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:22:56 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:22:56 save_data.py:20 INFO]: Input request body error
+[20240524 18:22:56 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:22:56 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:22:56 save_data.py:20 INFO]: Input request body error
+[20240524 18:23:41 save_data.py:20 INFO]: Imported data completed
+[20240524 18:23:41 save_data.py:20 INFO]: The repair_table already exists.
+[20240524 18:23:41 save_data.py:20 INFO]: Imported data completed
+[20240524 18:23:41 save_data.py:20 INFO]: The machine_table already exists.
+[20240524 18:23:41 save_data.py:20 INFO]: Imported data completed
+[20240524 18:23:41 save_data.py:20 INFO]: The part_table already exists.
+[20240524 18:23:41 save_data.py:20 INFO]: Imported data completed
+[20240524 18:23:41 save_data.py:20 INFO]: The part_statistic_table already exists.
+[20240524 18:23:41 save_data.py:20 INFO]: Imported data completed
+[20240524 18:23:41 save_data.py:20 INFO]: The machine_state_table already exists.
+[20240524 18:23:41 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:23:41 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:23:41 save_data.py:20 INFO]: Input request body error
+[20240524 18:23:41 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:23:41 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:23:41 save_data.py:20 INFO]: Input request body error
+[20240524 18:23:41 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:23:41 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:23:41 save_data.py:20 INFO]: Input request body error
+[20240524 18:23:41 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:23:41 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:23:41 save_data.py:20 INFO]: Input request body error
+[20240524 18:24:25 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:24:26 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:24:26 save_data.py:20 INFO]: Created the repair_table data
+[20240524 18:24:26 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:24:26 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:24:26 save_data.py:20 INFO]: Created the machine_table data
+[20240524 18:24:26 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:24:26 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:24:26 save_data.py:20 INFO]: Created the part_table data
+[20240524 18:24:26 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:24:26 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:24:26 save_data.py:20 INFO]: Created the part_statistic_table data
+[20240524 18:24:26 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:24:26 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:24:26 save_data.py:20 INFO]: Created the machine_state_table data
+[20240524 18:24:26 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:24:26 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:24:26 save_data.py:20 INFO]: Created the create_huan_jia_table data
+[20240524 18:24:26 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:24:26 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:24:26 save_data.py:20 INFO]: Created the create_part_list data
+[20240524 18:24:26 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:24:26 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:24:26 save_data.py:20 INFO]: Created the create_device_table data
+[20240524 18:24:26 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:24:26 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:24:26 save_data.py:20 INFO]: Created the create_machine_list data
+[20240524 18:26:51 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:26:51 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:26:51 save_data.py:20 INFO]: Created the repair_table data
+[20240524 18:26:51 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:26:51 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:26:51 save_data.py:20 INFO]: Created the machine_table data
+[20240524 18:26:51 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:26:51 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:26:51 save_data.py:20 INFO]: Created the part_table data
+[20240524 18:26:51 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:26:51 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:26:51 save_data.py:20 INFO]: Created the part_statistic_table data
+[20240524 18:26:51 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:26:52 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:26:52 save_data.py:20 INFO]: Created the machine_state_table data
+[20240524 18:26:52 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:26:52 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:26:52 save_data.py:20 INFO]: Created the create_huan_jia_table data
+[20240524 18:26:52 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:26:52 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:26:52 save_data.py:20 INFO]: Created the create_part_list data
+[20240524 18:26:52 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:26:52 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:26:52 save_data.py:20 INFO]: Created the create_device_table data
+[20240524 18:26:52 save_data.py:20 INFO]: [Error] Input request body error; /mnt/c/Users/jimlee/Desktop/app-cloud2/backend/save_data.py. link_Postgres at line 51.
+[20240524 18:26:52 save_data.py:20 INFO]: Created table or insert data successfully
+[20240524 18:26:52 save_data.py:20 INFO]: Created the create_machine_list data
