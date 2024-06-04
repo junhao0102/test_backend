@@ -30,7 +30,7 @@ from save_data import use_device_id
 
 # export
 from statistic_fun import statistic_part, machine_healthy_val
-from save_data import  insert_device #insert_huan_jia_data ,
+
 
 # 定期執行
 from statistic_fun import update_main
@@ -74,6 +74,7 @@ class NewPartItem(BaseModel):
 async def insert_new_part(item: NewPartItem):
     api_dict = item.dict()
     insert_msg = insert_main(api_dict, 'part_list', logger)
+    print(insert_msg)
     return insert_msg
 
 

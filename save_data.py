@@ -72,7 +72,8 @@ def link_Postgres(
 
         cursor.close()
         conn.close()
-    except:
+    except psy.DatabaseError as e:
+        logger.error(f"Database connection failed: {e}")
         data = "error"
         cl, exc, tb = sys.exc_info()  # 取得Call Stack
         last_call_stack = traceback.extract_tb(tb)[-1]  # 取得Call Stack的最後一筆資料
@@ -362,7 +363,7 @@ def read_part_list(logger):
     df_dict = part_list.to_dict()
     read_msg = {
         "state": db_msg["state"],
-        "data": [df_dict],
+        "data": [[df_dict]],
         "message": db_msg["message"],
     }
     return read_msg
@@ -401,128 +402,6 @@ def init_part_data(logger):
         build_msg["message"] = "Created the initial part data"
         build_msg["state"] = True
     return build_msg
-
-
-# # 又得馬資料
-# def insert_huan_jia_data(logger):
-#     # 擷取docker compose 設定
-#     api_base_url = "https://host.docker.internal:443"
-#     api_endpoint = os.environ["API_COUNT_ENDPOINT"]
-#     access_token = os.environ["API_TOKEN"]
-#     headers = {
-#         "Authorization": "Bearer" + access_token,
-#         "Content-Type": "application/json",
-#     }
-#     # 日期
-#     today = date.today().strftime("%Y-%m-%d")
-#     # 擷取 目前 device table
-#     device_sql = """SELECT dt."id" FROM device_table as dt"""
-#     msg = read_config(device_sql, False, logger)
-#     d_data, db_msg = link_Postgres(**msg)
-#     id_list = d_data["id"].tolist()
-#     if db_msg["state"]:
-#         for device_id in id_list:
-#             # data_response = requests.get(
-#             #     'https://raw.githubusercontent.com/api/device/running-count/',
-#             #     params={"deviceId": device_id, "date": f"'{today}'"})
-#             data_response = requests.get(
-#                 api_base_url + api_endpoint,
-#                 headers=headers,
-#                 verify=False,
-#                 params={"deviceId": device_id, "date": f"'{today}'"},
-#             )
-
-#             df_dict = data_response.json()
-#             if df_dict["status"] == "ok":
-#                 # for item in range(len(df_dict['data'])):
-#                 df_d1 = df_dict["data"][0]
-#                 df_d2 = pd.DataFrame(df_d1, index=[0])
-#                 date_list = ["startAt", "endAt", "createdAt", "updateAt"]
-#                 for d in date_list:
-#                     p_date = pd.to_datetime(df_d2[d])
-#                     df_d2[d] = p_date.iloc[0].strftime("%Y-%m-%d")
-#                 del_list = ["id", "createdAt", "updateAt"]
-#                 for de in del_list:
-#                     del df_d2[de]
-#                 df_d2.columns = ["device_id", "start_at", "end_at", "count"]
-#                 # 匯入DB
-#                 n_sql = f"""INSERT INTO huan_jia(
-#                         device_id, start_at, end_at, count)
-#                     VALUES(
-#                         '{df_d2.iloc[0, 0]}', '{df_d2.iloc[0, 1]}', 
-#                         '{df_d2.iloc[0, 2]}', '{df_d2.iloc[0, 3]}')"""
-#                 msg2 = read_config(n_sql, True, logger)
-#                 d2, _msg = link_Postgres(**msg2)
-#                 if _msg["state"]:
-#                     logger.info(f"Created the iot data")
-#                     insert_dict = {"message": "Created the iot data", "state": True}
-#                 else:
-#                     logger.info(_msg)
-#                     insert_dict = {"message": "[Error] insert iot data", "state": False}
-#                 return insert_dict
-#             else:
-#                 error_msg = {
-#                     "message": "[Error] input status does not ok or other input error",
-#                     "state": False,
-#                 }
-#                 logger.info(error_msg)
-#                 return error_msg
-#     else:
-#         error_msg = {"message": db_msg["message"], "state": False}
-#         logger.info(error_msg)
-#         return error_msg
-
-
-# 又得馬 - 機台裝置假設資料
-def insert_device_data(df2, enabled):
-    # 匯入DB
-    n_sql = f"""INSERT INTO device_table(
-                    id, serverid, machineid, enabled, name, 
-                    aliasid, comment, createdat, updateat)
-                VALUES(
-                    {df2.iloc[0, 0]}, {df2.iloc[0, 1]}, 
-                    {df2.iloc[0, 2]}, {enabled}, 
-                    '{df2.iloc[0, 4]}', '{df2.iloc[0, 5]}', 
-                    '{df2.iloc[0, 6]}', '{df2.iloc[0, 7]}',
-                    '{df2.iloc[0, 8]}')"""
-    return n_sql, True
-
-
-# 新增又得馬裝置資料
-def insert_device(logger):
-    # 擷取docker compose 設定
-    api_base_url = "https://host.docker.internal:443"
-    api_endpoint = os.environ["API_DEVICE_ENDPOINT"]
-    access_token = os.environ["API_TOKEN"]
-    headers = {
-        "Authorization": "Bearer" + access_token,
-        "Content-Type": "application/json",
-    }
-    print(api_base_url + api_endpoint)
-    # 設置讀取 又得馬API程式
-    data_response = requests.get(
-        api_base_url + api_endpoint, headers=headers, verify=False
-    )
-    device_dict = data_response.json()
-    if device_dict["status"] == "ok":
-        for i in range(len(device_dict["data"])):
-            df1 = copy.deepcopy(device_dict["data"][i])
-            df2 = pd.DataFrame(df1, index=[0])
-            if df2.iloc[0, 3]:
-                enabled = 1
-            else:
-                enabled = 0
-            n_sql, state = insert_device_data(df2, enabled)
-            if state:
-                msg = read_config(n_sql, True, logger)
-                d2, _msg = link_Postgres(**msg)
-                logger.info(f"Created the device data: row {i}")
-            else:
-                pass
-                logger.info(f"[Error] insert device data: row {i}")
-        return {"message": "Created the device data", "state": True}
-    else:
-        return {"message": "[Error] insert device data", "state": False}
 
 
 # 新增資料主程式
@@ -569,57 +448,6 @@ def get_machine_data(logger):
     msg = read_config(sql, False, logger)
     m_data, db_msg = link_Postgres(**msg)
     return m_data, db_msg
-
-
-# 讀取 machine table join iot data
-# def get_mt_and_iot(logger):
-#     sql = """SELECT mt.machine_name, ht.device_id, ht.end_at, ht.count
-#     FROM machine_table as mt
-#     FULL JOIN huan_jia as ht
-#     ON mt.device_id=ht.device_id
-#     WHERE mt.machine_name is NOT NULL;"""
-#     msg = read_config(sql, False, logger)
-#     m_data, db_msg = link_Postgres(**msg)
-#     return m_data, db_msg
-
-
-# 讀取 iot + machine + part table
-# machine name 有新增到的才進行
-# def get_imp_data(now_date, machine_name, part_name):
-#     sql = f"""SELECT t4.machine_name, t4.part_name, MAX(t4.init_val) as init_val, Max(t4.insert_date) as insert_date, MAX(t4.h_date) as h_date, sum(t4.count)
-#     FROM (
-#         SELECT DISTINCT t3.h_date, t3.machine_name, t3.part_name, t3."count", t3.init_val, t3.insert_date
-#         FROM (
-#         SELECT
-#             t2.*
-#         FROM
-#             (
-#             SELECT
-#                 t1.*,
-#                 pt.part_name,
-#                 pt.insert_date,
-#                 pt.init_val
-#             FROM
-#                 (
-#                 SELECT
-#                     mt.machine_name,
-#                     ht.count,
-#                     ht.end_at as h_date
-#                 FROM
-#                     machine_table AS mt
-#                     FULL JOIN huan_jia AS ht ON mt.device_id = ht.device_id
-#                     WHERE mt.machine_name IS NOT NULL) t1
-#             FULL JOIN (SELECT pt.machine_name, pt.part_name,
-#                             MAX(pt.insert_date) as insert_date, MAX(pt.init_val) as init_val
-#                         FROM part_table as pt
-#                         GROUP BY pt.machine_name, pt.part_name)
-#                         AS pt ON t1.machine_name = pt.machine_name) t2 ) t3
-#         WHERE machine_name = '{machine_name}'
-#         AND part_name = '{part_name}'
-#         AND h_date < '{now_date}'
-#         AND h_date >= insert_date) t4
-#         GROUP BY t4.machine_name, t4.part_name"""
-#     return sql
 
 
 # 讀取維修資料

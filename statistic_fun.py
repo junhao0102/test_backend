@@ -7,7 +7,7 @@ import traceback
 # import os
 from typing import Dict
 from save_data import get_part_data, count_data, get_iot_count, \
-    get_machine_healthy_val, read_config, link_Postgres, insert_device #, insert_huan_jia_data
+    get_machine_healthy_val, read_config, link_Postgres
 from datetime import date, timedelta
 from sqlalchemy import create_engine
 # from sqlalchemy.orm import sessionmaker
