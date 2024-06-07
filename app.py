@@ -212,7 +212,6 @@ async def del_rep_data(item: DelRepairData):
 
 # 刪除零件列表
 class DelPartItem(BaseModel):
-    id: int
     part_name: str
 
 

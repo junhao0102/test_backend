@@ -360,10 +360,10 @@ def read_part_list(logger):
     sql = """SELECT * FROM part_list"""
     msg = read_config(sql, False, logger)
     part_list, db_msg = link_Postgres(**msg)
-    df_dict = part_list.to_dict()
+    df_dict = part_list.to_dict('records')
     read_msg = {
         "state": db_msg["state"],
-        "data": [[df_dict]],
+        "data": df_dict,
         "message": db_msg["message"],
     }
     return read_msg
@@ -723,11 +723,11 @@ def update_machine_table(up_dict: Dict, logger):
 # 刪除零件列表中的零件
 def del_part_item(del_dict: Dict, logger):
     sql = f"""DELETE FROM part_list
-        WHERE id = {del_dict['id']} AND part_name = '{del_dict['part_name']}'"""
+        WHERE part_name = '{del_dict['part_name']}'"""
     db_msg = read_config(sql, True, logger)
     m_data, db_msg = link_Postgres(**db_msg)
     if db_msg["state"]:
-        msg = f'Delete the id = {del_dict["id"]}: {del_dict["part_name"]} completed'
+        msg = f'Delete {del_dict["part_name"]} completed'
         msg_dict = {"message": msg, "state": True}
         logger.info("Delete part item completed")
     else:
